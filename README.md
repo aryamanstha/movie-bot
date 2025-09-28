@@ -8,7 +8,7 @@ Short instructions to generate the JSON dataset, run the Flask GraphQL backend a
 - (Optional) Ollama or any LLM service if you want natural-language → GraphQL conversion via `/chatbot`
 
 ## Install dependencies
-Open PowerShell in the project root (d:\MS Data Science and AI\Semester 1\Database Theory\Project):
+Open PowerShell in the project root:
 
 ```powershell
 python -m pip install --upgrade pip
