@@ -1,0 +1,5 @@
+pandas
+ariadne
+flask
+streamlit
+
